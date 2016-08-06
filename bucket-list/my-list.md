@@ -2,7 +2,7 @@
 
 ## Short term goals
  * Complete 2nd Masters
- * ~~Retirement~~
+ * Retirement
  * Complete PMP Certification
  * Job hunt
 
