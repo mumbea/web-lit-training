@@ -1,14 +1,15 @@
-# My Bucket List
+# 2016 Goals
 
-## Family and friends
- * Save for kids' college education
- * ~~Organize a family portrait~~
- * Throw a surprise party for a loved one
+## Short term goals
+ * Complete 2nd Masters
+ * ~~Retirement~~
+ * Complete PMP Certification
+ * Job hunt
 
-## Travel and Adventure
- * Visit Antarctica
- * Go skydiving
- * Dive the Great Barrier Reef
+## Mid term goals
+ * Vacation with family
+ * Vacation with spouse
+ * Vacation alone
  
 ## Career
  * ~~Learn coding skills~~
